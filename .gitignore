@@ -24,4 +24,6 @@ go.work.sum
 # env file
 .env
 
-log.*
+
+# ignore ALL .log files
+log*.txt 
